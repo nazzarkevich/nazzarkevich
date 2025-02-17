@@ -1,4 +1,4 @@
-# Hi 👋, I'm Naz,
+# Hi 👋, I'm Naz
 
 Welcome to my profile! I'm fullstack/frontend engineer [@Nexudus](https://nexudus.com), based in the UK. 
 Currently, working on my logistics side project for Ukrainians in London. 
@@ -18,6 +18,6 @@ I'm an amature marathon runner, and I train for long-distance running in my free
 <a href="https://instagram.com/nazzarkevich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazzarkevich" height="30" width="40" /></a>
 </p>
 
-[Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII),
+[Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 
 read/yc
